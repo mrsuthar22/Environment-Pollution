@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>Pollution</title>
+</head>
+<BODY background = "images.jpg">
+<A name = "top"></A>
+<h2>
+<A href = "Home.html">Back</A></h2>
+<h1 align = "center"><FONT face = "Arial" color = "Maroon">Pollution</h1></FONT>
+<FONT face = "Verdana" size = 3>
+<p><FONT face = "Arial" color = "Orange">
+<h3> ANCIENT CULTURES</h3></FONT>
+<p>
+The forging of metals appears to be a key turning point in the creation of significant air pollution levels. Core samples of glaciers in Greenland indicate increases in
+air pollution associated with Greek,Roman and Chinese metal production.<p>
+<hr width = 25%>
+<FONT face = "Arial" color = Orange>
+<h3>OFFICIAL ACKNOWLEDGEMENT</h3><p></FONT>
+The earliest known writings concerned with pollutuion were<i>Arabic medical treatises</i>written between the 9th and 13th centuries, by such as<i>al-Kindi(Alkindus),
+Qusta ibn Luqa (Costa ben Luca),Muhammad ibn Zakakariya Razi (Rhazes), Ibn Al-Jazzar, al-Tamini, al-Mashi, Ibn Sina (Avicenna), Ali ibn Ridwan, Ibn Jumay, Isaac Isreali 
+ben Solomon, Abd-el-latif, Ibn al-Quff, and Ibn al-Natfis.</i>Their works covered a number of subjects related to pollution such as air contamination, water contamination,
+soil contamination, solid waste mishandling, and environmental assesments of certain localities.<p>
+King Edward I of England banned the burning os sea-coal by proclamation in London in 1272, after its smoke had become  problem. But the fuel was so common in England that
+this earliest of names for it was acquired bcause it could be carted away from some shores by the wheelbarrow. Air Pollution would continue to be a problem in England, especially
+later during the industrial revolution, an extending into recent past with the Great Smog of 1952. This same city also recorded one of the earlier extreme cases of water quality problems
+with the Great Stink on the Thames of 1858, which led to construction of London sewerage system soon afterward.<p>
+It was the industrial revolution that gave birth to environmental pollution as we know it today. The emergence of great factories and consumption of immense quantities of coal and other fossil
+fuels gave rise to unprecented air pollution and the large volume of industrial chemical discharges added to the growing load of untreated human waste. Chicago and Cincinnati were the first two
+American cities to enact laws ensuring cleaner air in 1881. Other cities followed around the country until early in the 20th century, when the short lived Office of Air Pollution was created unde the
+Department of the Interior. Extreme smog events were exprienced by the cities of Los Angeles and Donora, Pennsylvania in the late 1940`s, serving as another public reminder.<p>
+<HR width= 25%>
+<FONT face = "Arial" color = Orange>
+<h3>MODERN AWARENESS</h3></FONT>
+<IMG src = "pollution.jpg" align = bottom>
+<FONT size = 2>
+Early soviet poster, before the modern awareness: "The smoke of chimneys is the breath os Soviet Russia"</FONT><p>
+Pollution became a popular issue after WW2, when the aftermath of atomic warfare and testing made evident the perils of radioactive fallout. Then a conventional catastrophic event The Great Smog of 1952
+in London killed at leat 8000 people. This massive event prompted some of the first major modern environmental legislation, The<i>Clean Air Act of 1956.</i><p></FONT>
+<HR width = 25%>
+<FONT face = "Arial" color = Orange>
+<h3>FORMS OF POLLUTION</h3><p></FONT>
+The major forms of pollution are listed below along with the particular pollutants relevant to each of them :<p>
+<b>Air Pollution</b>, the release of chemicals and particulates into the atmosphere. Common gaseous air pollutants include Carbon Monoxide, Sulphur dioxide, Chlorofluorocarbons(CFC`s) and nitrogen oxides 
+produced by industry and motor vehicles.<p>
+<b>Water Pollution</b>,by release of waste products and contaminants into surface runoff into river drainage systems, leaching into groundwater, liquid spills, wastewater discharges, eutrophication and 
+littering.<p>
+<b>Soil Contamination</b> occurs when chemicals are released by spill or underground leakage. Among the most significant soil contaminants are Hydrocarbons, heavy metals, MTBE, herbicides, pesticides and
+cholrinated hydrocarbons.
+<b>Radioactive Contamination</b>0, resulting from the 20th century activities in atomic physics, such as nuclear power generation and nuclear weapons research, manufacture and deployment.<p>
+<b>Noise Pollution</b>which encompases roadway noise, aircraft noise, industrial noise as well as high-intensity sonar.<p>
+<b>Light Pollution</b>, includes light trepass, over illumination and astronomical interface.<p>
+<b>Visual Pollution</b>, which can refer to the presence of overhead power lines, motorway billboards, scarred landforms (as from strip mining), open storage of trash or municipal solid waste.<p>
+<b>Thermal Pollution</b>, is a temperature change in natural water bodies caused by human influence, such as use of water as coolant in a power plant.<p>
+<HR width = 25%>
+<FONT face = "Arial" color = Orange>
+<h3>POLLUTANTS</h3><p></FONT>
+<i>Main Article : Pollutant</i>
+A pollutant is a waste material that pollutes air,water or soil. Three factors determine the severity of a pollutant :  its chemical nature, the concentration and the persistence.<p>
+<b>SOURCES & CAUSES</b><p>
+Air pollution comes from both natural and man-made sources. Though globally man made pollutants from combustion, construction, mining, agriculture and warfare are increasingly significant in the air pollution
+equation.<br>
+Motor vehicles emissions are one of the leading causes of air pollution. China, United States, Russia, Mexico, and Japan are the world leaders in air pollution emissions. Agricultural air pollution comes from
+contemporary practices which include clear felling and burning of natural vegetation as well as sraying of pesticides and herbicides.<p>
+Ordinay municipal landfills are the source of many chemical substances entering the soil environment (and often groundwater), emanating from the wide variety of refuse accepted, especially substances illegally
+discarded there, or from pre-1970 landfills that may have been subject to little control in the U.S. or EU. There have also been some unusual releases 
+of polychlorinate dibenzodioxins, commonly called dioxins for simplicity, such as TCDD.<p>
+Pollution can also be the consequence of a natural disaster. For example, hurricanes often involve water contamination from sewage, and petrochemical spills from rupted boats or automobilies. Larger scale and
+environmental damage is not uncommon when coastal oil rigs or refineries are involved. Some sources of pollution, such as nuclear power plants or oil tankers, can produce widespread and potentially hazardous
+releases when accidents occur.<p>
+<HR width = 25%>
+<FONT face = "Arial" color = Orange>
+<h3>Effects</h3><p></FONT>
+<b>Human Health</b><br>
+Adverse air quality can kill many organisms including humans. Ozone pollution can cause respiratory disease, cardiovascular disease, throat inflammation, chest pain, and congestion. Water pollution causes 
+approximately 14,000 deaths per day, mostly due to contamination of drinking water by untreated seawage in developing countries. In India, air pollution is believed to cause 527,700 fatalities a year.<p>
+Oil spills can cause skin irritations and rashes. Noise pollution induces hearing loss, high blood pressure, stress, and sleep disturbance. Mercury has been linked to developmental deficits in children
+and neurologic symptoms. Older people are majorly exposed to diseases induced by air pollution. Those with heart or lung disorders are under additional risk. children and infants are also at serious risk.
+Lead and other heavy metals have been shown to cause neusrological problems. Chemical and radioactive substances can cause cancer and as well as birth defects.<p>
+<b>Environment</b>
+Pollution has been found to be present widely in the environment. There are a number of effects of this :<br>
+Sulphur dioxide and nitrogen oxides can cause acid rain which lowers the pH vakue of soil.<br>
+Nitrogen oxides are removed from the air by rain and fertilise land which can change the species composition of ecosystems.<br>
+Soil; can become infertile and unsuitable for plants. This will affect other organisms in the food web.<br>
+Smog and haze can reduce the amount of sunlight received by palnts to carry out photosynthesis and leads to the production of tropospheric ozone which damages plants.<br>
+Invasive species can out to compete native species and reduce biodiversity.<br>
+Carbon dioxide emissions cause ocean acidification, the ongoing derease in the pH of the Earth`s oceans as CO<sub>2</sub> becomes dissolved.<br>
+The emission of greenhouse gases lead to global warming which affects ecosystems in many ways.<p>
+<b>Regulation and Monitoring</b>
+<i>Main Article : Regulation and monitoring of pollution.</i><p>
+To protect the environment from the adverse effects of pollution, many nations worldwide have enacted legislation to regulate various types of pollution as well as to mitigate the adverse effects of
+pollution.<p>
+<b>Pollution Control</b><p>
+Pollution control is a term used in environmental management. It means the control of emissions and effluents into air, water or soil. Without pollution control, the waste products from consumption, heating, agriculture,
+mining, manufacturing, transportation and other human activities, whether they accumalate os disperse, will degrade the environment. In the hierarchy of controls, pollution prevention and waste minimization are more 
+desirable than pollution control.<p>
+<HR width = 25%>
+<FONT face = "Arial color = Orange>
+<h3>PERSPECTIVES</h3><p></FONT>
+"The solution to pollution is dilution", is a dictum which summarizes a trditional approach to pollution management whereby sufficiently diluted pollution is not harmful.It is well-suited to some other modern, locally 
+scoped applications such as laboratory safety procedure and hazardous material release emergency management. But it assumes that the dilutant is virtually unlimited supply for the application or that resulting dilutions
+are acceptable in all cases.<p>
+Such simple treatment for environmental pollution on a wider scale might have had greater merit in earlier centuries when physical survival was often the highest imperative, human population and densities were lower,
+technologies were simpler and their byproducts more benign. But these are often no longer the case.<p>
+<HR width = 25%>
+<FONT face = "Arial" color = Orange>
+<h3>GREENHOUSE GASES & GLOBAL WARMING</h3><p></FONT>
+<i>Main Article : Global Warming</i><p>
+Carbon dioxide, while vital for photosynthesis is sometimes reffered to as pollution, beacuse raised levels of the gases in the atmosphere are affeting the Earth`s climate.<p><p>
+<HR width = 25%><PRE>
+
+
+
+
+<h3><A href = "#top">Top</A></h3></PRE>
+</body>
+</html>     
